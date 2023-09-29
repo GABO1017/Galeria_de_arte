@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="foto1">Tostao</string>
+    <string name="year1">04-2021</string>
+    <string name="descripcion1">Primer cafesito juntos</string>
+
+    <string name="foto2">Grado</string>
+    <string name="year2">06-2021</string>
+    <string name="descripcion2">Juntos el dia de tu grado</string>
+
+    <string name="foto3">Novios</string>
+    <string name="year3">07-2021</string>
+    <string name="descripcion3">Iniciando una vida juntos</string>
+
+    <string name="foto4">Halloween</string>
+    <string name="year4">10-2021</string>
+    <string name="descripcion4">Disfrazados en pareja</string>
+
+    <string name="foto5">Boda</string>
+    <string name="year5">11-2021</string>
+    <string name="descripcion5">El mayor beso de nuestro amor</string>
+
+    <string name="foto6">Amor</string>
+    <string name="year6">05-2022</string>
+    <string name="descripcion6">Cita con mucho amor</string>
+
+    <string name="foto7">Año</string>
+    <string name="year7">07-2022</string>
+    <string name="descripcion7">Celebrando nuestro primer año juntos</string>
+
+    <string name="foto8">Canto</string>
+    <string name="year8">09-2022</string>
+    <string name="descripcion8">Despues de tu bello concierto</string>
+
+    <string name="foto9">Birria</string>
+    <string name="year9">06-2023</string>
+    <string name="descripcion9">Disfrutando nuestra comida favorita</string>
+
+    <string name="foto10">2 Años</string>
+    <string name="year10">08-2023</string>
+    <string name="descripcion10">Despues de dificultades, siempre juntos</string>
+
+    <string name="name">Gabriel Franco Betancourt</string>
+    <string name="code">2024200</string>
+    <string name="empty">" "</string>
+
+    <string name="next">Siguiente</string>
+    <string name="previous">Anterior</string>
+    <string name="refresh">Refresca</string>
+
+    <string name="boton_refresh">Boton para reiniciar</string>
+</resources>
